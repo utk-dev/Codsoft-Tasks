@@ -1,4 +1,4 @@
-# CALCULATOR
+# Calculator
 
 
 def calculator():
