@@ -1,4 +1,3 @@
-#CALCULATOR
 
 def calculator():
     first_number = float(input("Enter the first number: "))
