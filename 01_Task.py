@@ -1,5 +1,4 @@
-#To-Do List
-
+#To-Do LIST
 my_tasks = []
 
 while True:

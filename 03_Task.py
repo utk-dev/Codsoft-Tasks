@@ -1,4 +1,4 @@
-#Rock-Paper-Scissor Game
+#ROCK-PAPER-SCISSOR GAME
 
 '''
 Rock = -1
