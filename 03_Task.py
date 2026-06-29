@@ -1,5 +1,3 @@
-#ROCK-PAPER-SCISSOR GAME
-
 '''
 Rock = -1
 Paper = 1
