@@ -1,4 +1,4 @@
-# CALCULATOR
+
 
 def calculator():
     first_number = float(input("Enter the first number: "))
@@ -29,3 +29,4 @@ def calculator():
     print(f"The value of {first_number} {operation} {second_number} is {result:.4f}")      #answers upto 4 decimal places
 
 calculator()
+
